@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_brand"
+  site-url: "https://marcusinthesky.github.io/nbdev_brand"
+  description: "A minimal working example of supporting `_brand.yml` in ndbev."
+  repo-branch: main
+  repo-url: "https://github.com/marcusinthesky/nbdev_brand"
